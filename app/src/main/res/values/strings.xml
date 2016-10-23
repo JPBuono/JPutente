@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">JustPizzaPizzeria</string>
+    <string-array name="TipiAccesso">
+        <item>Cliente</item>
+        <item>Pizzeria</item>
+    </string-array>
+
+    <string-array name="tabs">
+        <item>Tab1</item>
+        <item>Tab2</item>
+        <item>Tab3</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="drower_open">Open</string>
+    <string name="drower_close">Close</string>
+    <string name="username">Username</string>
+    <string name="tipo_di_accesso">Tipo di accesso</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="gestisci_pizze">Gestisci Pizze</string>
+    <string name="checkBox">Resta Collegato</string>
+    <string name="nome_pizza">Nome Pizza</string>
+    <string name="ingredienti_pizza">Ingredienti Pizza</string>
+    <string name="prezzo">Prezzo</string>
+    <string name="glutine">Glutine</string>
+    <string name="descrizione">Descrizione</string>
+    <string name="title_activity_pizze_list">PizzeListActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="id_ordine">Id</string>
+    <string name="nome_utente">Nome Utente</string>
+    <string name="id_pizza">Id Pizza</string>
+    <string name="prezzo_pizza_gigante">Prezzo pizza gigante</string>
+    <string name="aggiungi_pizza">AGGIUNGI PIZZA</string>
+
+
+
+
+    //######
+    <string name="lbl_you_are_at">YOU ARE AT</string>
+    <string name="btn_get_location">GET MY LOCATION</string>
+    <string name="btn_start_location_updates">PRESS TO SHOW mCurrentLocation</string>
+    <string name="btn_stop_location_updates">STOP LOCATION UPDATES</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Permission-->
+    <string name="no_location_permission_title">Permission Warning!</string>
+    <string name="no_location_permission_message">Il permesso per la posizione è obbligatorio per l\'utilizzo di questa applicazione.</string>
+    <string name="permission_reason_title">Location permission</string>
+    <string name="permission_reason_message">Questo permesso è utilizzato per ricercare pizzerie nei tuoi dintorni.</string>
+
+    <!-- Geocoder-->
+    <string name="no_location_available">Location not available!</string>
+    <string name="my_location_geocoder_not_available">Geocoder service not available</string>
+    <string name="my_location_geo_coding_not_available">Geocoding not available!</string>
+    <string name="no_info">--</string>
+    <string name="loading_message">Caricamento&#8230;</string>
+
+    //######
+
+
+    <plurals name="numero_pizze">
+        <item quantity="one">C\'e\' una pizza.</item>
+        <item quantity="other">Ci sono $1%s pizze</item>
+    </plurals>
+
+    <plurals name="numero_pizzerie">
+        <item quantity="zero">Non ci sono pizzerie nei dintorni.</item>
+        <item quantity="one">Una pizzeria nei dintorni.</item>
+        <item quantity="other">Ci sono $1%s pizzerie nei dintorni</item>
+    </plurals>
+
+</resources>

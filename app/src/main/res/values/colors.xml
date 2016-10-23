@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="ColorPrimary2">#e62117</color>
+    <color name="ColorPrimaryDark2">#c31c13</color>
+    <color name="tabsScrollColor">#8a140e</color>
+
+    <color name="BackGroundOrdiniStateOpen">#A5D6A7</color>
+    <color name="BackGroudOrdiniStateClosed">#FF8A65</color>
+
+
+    //######
+    <color name="view_bg">#b20e0f</color>
+    <color name="white">#ffffff</color>
+    <color name="btn_bg">#3e4a56</color>
+    <color name="blue">#0000FF</color>
+    //######
+
+
+</resources>
